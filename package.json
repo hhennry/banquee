@@ -1,7 +1,7 @@
 {
   "name": "banquee",
   "private": true,
-  "version": "B1.0.1",
+  "version": "B1.0.2",
   "type": "module",
   "scripts": {
     "dev": "vite",
