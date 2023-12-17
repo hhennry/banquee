@@ -4,11 +4,11 @@ import { Footer } from "../../contents/footer";
 import { Header } from "../../contents/header";
 
 export function Pages() {
-    return(
-        <>
-            <Header />
-            <BannerApp />
-            <Footer />
-        </>
-    )
+  return (
+    <>
+      <Header />
+      {/* <BannerApp /> */}
+      {/* <Footer /> */}
+    </>
+  );
 }
